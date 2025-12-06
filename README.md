@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .HAIR one-word domains still available to buy.
 
-This dataset contains 4,666 .HAIR one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,661 .HAIR one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.HAIR one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=hair-oneword-domains&utm_content=description.top) (4,667) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,16 +13,16 @@ If you want to search & filters the complete database of [.HAIR one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/hair-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/hair-oneword-domains/blob/main/hair.csv"><b>⬇️ CSV (4.67K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/hair-oneword-domains/blob/main/hair.json"><b>⬇️ JSON (4.67K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/hair-oneword-domains/blob/main/hair.csv"><b>⬇️ CSV (4.66K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/hair-oneword-domains/blob/main/hair.json"><b>⬇️ JSON (4.66K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=hair-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.67K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain          | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | --------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.hair        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.hair      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.hair        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.hair      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.hair  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.hair      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.hair  | available | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.HAIR one word domains
 | abatic.hair     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.hair    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.hair   | available | 50       | 1%     | 8      |           |         |         |
-| abc.hair        | available | 102      | 41%    | 3      |           |         |         |
+| abc.hair        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.hair  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.hair  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.hair | available | 56       | 1%     | 10     |           |         |         |
@@ -54,8 +54,8 @@ If you want to search & filters the complete database of [.HAIR one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/hair-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/hair-oneword-domains/blob/main/hair.csv"><b>⬇️ CSV (4.67K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/hair-oneword-domains/blob/main/hair.json"><b>⬇️ JSON (4.67K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/hair-oneword-domains/blob/main/hair.csv"><b>⬇️ CSV (4.66K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/hair-oneword-domains/blob/main/hair.json"><b>⬇️ JSON (4.66K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=hair-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.67K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
