@@ -79,6 +79,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 07f31d93-f18d-4abd-b1e5-b41f688cc8ea,tips.hair,premium,2500,,80,26,4,name.com,,
 07fb94cc-5f86-4d4f-b76d-573129566814,hobbies.hair,available,1.65,15.75,60,11,7,namesilo,,
 08081da0-983b-477d-beef-7ffaa69cb112,extends.hair,available,1.99,,54,5,7,name.com,,
+08187740-d536-448d-ab0d-554d1dad5239,problem.hair,premium,,,66,16,7,,,
 0841be37-c295-4f50-b751-dfbce420b6cf,getphysical.hair,available,1.99,,80,1,12,name.com,,
 0858eb80-6c2f-45bc-b5b4-586af05fa760,ghosts.hair,available,1.65,15.75,48,14,6,namesilo,,
 088c9d47-7af7-4de6-83d4-823596a83ed7,havingsex.hair,available,1.65,15.75,58,1,10,namesilo,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 560853cd-0c79-445b-8bf9-c2f884685d81,commonhousefly.hair,available,1.99,,42,1,15,name.com,,
 56105f2b-26d5-42ed-9b56-382663e29dc6,alcoholaddiction.hair,available,1.99,,50,3,17,name.com,,
 56206989-c069-4fff-9bc4-b7eb2edb7f63,QandA.hair,available,19.98,,80,10,7,namecheap,,
-562516af-b669-48f1-b1aa-2da08cb76bd1,officedesk.hair,available,1.99,,55,5,11,name.com,,
