@@ -206,6 +206,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 12786608-96f2-4459-bab5-82a82d4c2f80,fellowmelad.hair,available,1.99,,62,1,13,name.com,,
 1294bfd7-d2e0-42db-b062-3c5ac5478707,makesout.hair,available,1.65,15.75,56,1,9,namesilo,,
 12a69ea4-a26b-4b26-b65c-d2ef9329050c,nosmoking.hair,available,1.99,,54,5,10,name.com,,
+12b8c91b-4311-4a86-a51c-657676771f2b,hashtag.hair,premium,,,82,32,7,,,
 12c8f60d-4c67-4342-b13f-fe4aa3a8c69a,pictorials.hair,available,1.65,15.75,56,2,10,namesilo,,
 12cb5b8f-87a1-496c-8a4f-aa9151c3aad5,prints.hair,resell,,,54,18,6,"GMO Internet Group, Inc. d/b/a Onamae.com",23/06/2025 05:26,23/06/2026 23:59
 12d14451-cc9f-4386-a94c-6baca8952033,hangover.hair,available,1.99,,62,12,9,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 55d6e4f7-b0d3-453e-832c-1528d5d99925,keepunder.hair,available,1.99,,66,1,10,name.com,,
 560853cd-0c79-445b-8bf9-c2f884685d81,commonhousefly.hair,available,1.99,,42,1,15,name.com,,
 56105f2b-26d5-42ed-9b56-382663e29dc6,alcoholaddiction.hair,available,1.99,,50,3,17,name.com,,
-56206989-c069-4fff-9bc4-b7eb2edb7f63,QandA.hair,available,19.98,,80,10,7,namecheap,,
