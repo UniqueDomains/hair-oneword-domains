@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .hair one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,398 domains · **Median ask:** $122.70 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/hair`  
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,7 @@ print(df.head())
 | winners.hair      | available | $1.65     | $15.75        | 60             | 81     | 7      | namesilo                                  |
 | its.hair          | resell    | —         | —             | 78             | 42     | 3      | Dynadot LLC                               |
 | hotels.hair       | premium   | $812.50   | —             | 64             | 82     | 6      | name.com                                  |
-| whynot.hair       | available | $1.99     | —             | 74             | 39     | 7      | name.com                                  |
+| whynot.hair       | available | $1.99     | —             | 74             | 44     | 7      | name.com                                  |
 | research.hair     | resell    | —         | —             | 78             | 39     | 8      | Dynadot LLC                               |
 | cars.hair         | premium   | $2,500    | —             | 66             | 47     | 4      | name.com                                  |
 | neuroscience.hair | available | $1.99     | —             | 80             | 37     | 12     | name.com                                  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HAIR One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HAIR One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
