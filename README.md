@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .hair one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,398 domains · **Median ask:** $122.70 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/hair`  
 **Best for:** founders, investors, studios
 
@@ -73,12 +73,12 @@ print(df.head())
 | neuroscience.hair | available | $1.99     | —             | 80             | 37     | 12     | name.com                                  |
 | prints.hair       | resell    | —         | —             | 54             | 18     | 6      | GMO Internet Group, Inc. d/b/a Onamae.com |
 | jobs.hair         | premium   | $2,500    | —             | 79             | 42     | 4      | name.com                                  |
-| inspiration.hair  | available | $1.99     | —             | 88             | 30     | 11     | name.com                                  |
+| commonground.hair | available | $1.99     | —             | 74             | 28     | 13     | name.com                                  |
 | sisters.hair      | resell    | —         | —             | 63             | 15     | 7      | Go Daddy, LLC                             |
 | justin.hair       | premium   | $812.50   | —             | 58             | 38     | 7      | name.com                                  |
-| commonground.hair | available | $1.99     | —             | 74             | 28     | 13     | name.com                                  |
-| events.hair       | premium   | $812.50   | —             | 68             | 37     | 6      | name.com                                  |
 | forms.hair        | available | $1.99     | —             | 54             | 28     | 5      | name.com                                  |
+| events.hair       | premium   | $812.50   | —             | 68             | 37     | 6      | name.com                                  |
+| inspiration.hair  | available | $1.99     | —             | 88             | 27     | 11     | name.com                                  |
 | homes.hair        | premium   | $812.50   | —             | 86             | 34     | 5      | name.com                                  |
 | goods.hair        | available | $1.99     | —             | 74             | 27     | 5      | name.com                                  |
 | tickets.hair      | premium   | $2,500    | —             | 64             | 34     | 7      | name.com                                  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HAIR One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HAIR One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
