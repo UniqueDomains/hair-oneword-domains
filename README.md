@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .hair one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,398 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,398 domains · **Median ask:** $122.70 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,398 domains · **Median ask:** $218.99 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/hair`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/hair`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .HAIR one-word domain 
 
 ### Files
 
-- `hair.csv` — public CSV extract (1,000 rows)
-- `hair.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `hair.csv`, public CSV extract (1,000 rows)
+- `hair.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                 |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------------------- |
-| winners.hair      | available | $1.65     | $15.75        | 60             | 81     | 7      | namesilo                                  |
-| its.hair          | resell    | —         | —             | 78             | 42     | 3      | Dynadot LLC                               |
-| hotels.hair       | premium   | $812.50   | —             | 64             | 82     | 6      | name.com                                  |
-| whynot.hair       | available | $1.99     | —             | 74             | 44     | 7      | name.com                                  |
-| research.hair     | resell    | —         | —             | 78             | 39     | 8      | Dynadot LLC                               |
-| cars.hair         | premium   | $2,500    | —             | 66             | 47     | 4      | name.com                                  |
-| neuroscience.hair | available | $1.99     | —             | 80             | 37     | 12     | name.com                                  |
-| prints.hair       | resell    | —         | —             | 54             | 18     | 6      | GMO Internet Group, Inc. d/b/a Onamae.com |
-| jobs.hair         | premium   | $2,500    | —             | 79             | 42     | 4      | name.com                                  |
-| commonground.hair | available | $1.99     | —             | 74             | 28     | 13     | name.com                                  |
-| sisters.hair      | resell    | —         | —             | 63             | 15     | 7      | Go Daddy, LLC                             |
-| justin.hair       | premium   | $812.50   | —             | 58             | 38     | 7      | name.com                                  |
-| forms.hair        | available | $1.99     | —             | 54             | 28     | 5      | name.com                                  |
-| events.hair       | premium   | $812.50   | —             | 68             | 37     | 6      | name.com                                  |
-| inspiration.hair  | available | $1.99     | —             | 88             | 27     | 11     | name.com                                  |
-| homes.hair        | premium   | $812.50   | —             | 86             | 34     | 5      | name.com                                  |
-| goods.hair        | available | $1.99     | —             | 74             | 27     | 5      | name.com                                  |
-| tickets.hair      | premium   | $2,500    | —             | 64             | 34     | 7      | name.com                                  |
-| bees.hair         | available | $1.99     | —             | 54             | 27     | 4      | name.com                                  |
-| Cats.hair         | premium   | $910      | $16.94        | 59             | 33     | 4      | namecheap                                 |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| christmas.hair | premium   | $812.50   | —             | high           | low    | 9      | name.com        |
+| sorry.hair     | available | $1.99     | $20.99        | high           | low    | 5      | name.com        |
+| quiet.hair     | available | $1.65     | $15.75        | high           | low    | 5      | namesilo        |
+| beauty.hair    | premium   | $10,000   | —             | high           | low    | 6      | name.com        |
+| what.hair      | premium   | $2,500    | —             | high           | low    | 4      | name.com        |
+| ada.hair       | available | $1.65     | $15.75        | medium         | medium | 3      | namesilo        |
+| mix.hair       | resell    | —         | —             | medium         | low    | 3      | Namecheap       |
+| ask.hair       | premium   | $2,500    | —             | high           | medium | 3      | name.com        |
+| ago.hair       | available | $1.99     | $20.99        | medium         | low    | 3      | name.com        |
+| blond.hair     | resell    | —         | —             | medium         | low    | 5      | Key-Systems LLC |
+| Ava.hair       | premium   | $812.50   | —             | high           | medium | 3      | name.com        |
+| bud.hair       | available | $1.65     | $15.75        | high           | low    | 3      | namesilo        |
+| prompt.hair    | resell    | —         | —             | high           | medium | 6      | Dynadot LLC     |
+| bag.hair       | premium   | $2,500    | —             | high           | low    | 3      | name.com        |
+| cot.hair       | available | $1.65     | $15.75        | high           | low    | 3      | namesilo        |
+| wisdom.hair    | resell    | —         | —             | high           | low    | 6      | Dynadot LLC     |
+| lp.hair        | premium   | $832      | $832          | medium         | low    | 3      | namesilo        |
+| due.hair       | available | $1.99     | —             | high           | low    | 3      | name.com        |
+| protect.hair   | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc. |
+| men.hair       | premium   | $812.50   | —             | high           | low    | 3      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are one-word names on the .hair extension. The set includes descriptive terms, broad dictionary words, and category-adjacent examples such as antioxidant.hair, vegan.hair, and business.hair. For founders, the main question is whether a name is clear, memorable, and credible enough to carry a hair brand without extra explanation. For investors, the focus is narrower: whether the word has commercial relevance to hair, beauty, salons, products, or education, and whether the ask leaves room for resale after renewal costs. Because this is a niche extension, strong word quality matters more than novelty alone.
+This is a focused list of one-word .hair domain names — 12,398 in total — built for buyers who want a short, memorable name in the hair, beauty, and personal-care space. Median ask across this selection sits near $219, giving a sense of typical pricing before comparing individual names like criteria.hair, feel.hair, or tips.hair. Because .hair is a newer, non-mainstream extension, availability and pricing can shift, so this set is updated daily.
 
-- Prioritize words with direct hair or beauty relevance
-- Median ask is 122.70 across 12,394 .hair domains
-- Generic dictionary words may need more brand context
-- Check renewal terms before judging the true holding cost
+- 12,398 one-word .hair domain names in this selection
+- Median ask near $219 across these .hair domains
+- Short, ownable words suited to hair & beauty brands
+- Updated daily to reflect current .hair name availability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HAIR One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HAIR One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
