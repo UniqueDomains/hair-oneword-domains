@@ -1,10 +1,10 @@
-# Available .HAIR One-Word Domains (12,406)
+# Available .HAIR One-Word Domains (13,363)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C406%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C363%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .hair one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,406 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **13,363 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,406 domains · **Median ask:** $196.44 · **High-demand under $2,500:** 14
+**Public extract:** 1,000 rows · **Live catalog:** 13,363 domains · **Median ask:** $173.95 · **High-demand under $2,500:** 16
 
-**Last updated:** 2026-08-06
+**Last updated:** 2026-08-11
 **Canonical page:** `https://unique.domains/domains/tld/hair`
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | christmas.hair | premium   | $812.50   | —             | high           | low    | 9      | name.com        |
+| sorry.hair     | available | $1.99     | $20.99        | high           | low    | 5      | name.com        |
 | ada.hair       | available | $1.65     | $15.75        | medium         | medium | 3      | namesilo        |
 | mix.hair       | resell    | —         | —             | medium         | low    | 3      | Namecheap       |
 | ape.hair       | premium   | $2,500    | $20.99        | medium         | low    | 3      | name.com        |
 | ago.hair       | available | $1.99     | $20.99        | medium         | low    | 3      | name.com        |
 | blond.hair     | resell    | —         | —             | medium         | low    | 5      | Key-Systems LLC |
 | ask.hair       | premium   | $2,500    | —             | high           | medium | 3      | name.com        |
-| bud.hair       | available | $1.65     | $15.75        | high           | low    | 3      | namesilo        |
+| azo.hair       | available | $1.80     | $19.98        | low            | low    | 3      | namecheap       |
 | prompt.hair    | resell    | —         | —             | high           | medium | 6      | Dynadot LLC     |
 | Ava.hair       | premium   | $812.50   | —             | high           | medium | 3      | name.com        |
-| cot.hair       | available | $1.65     | $15.75        | high           | low    | 3      | namesilo        |
+| bud.hair       | available | $1.65     | $15.75        | high           | low    | 3      | namesilo        |
 | wisdom.hair    | resell    | —         | —             | high           | low    | 6      | Dynadot LLC     |
 | bag.hair       | premium   | $2,500    | —             | high           | low    | 3      | name.com        |
-| due.hair       | available | $1.99     | —             | high           | low    | 3      | name.com        |
+| cot.hair       | available | $1.65     | $15.75        | high           | low    | 3      | namesilo        |
 | protect.hair   | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc. |
 | lp.hair        | premium   | $832      | $832          | medium         | low    | 3      | namesilo        |
-| err.hair       | available | $1.65     | $15.75        | high           | low    | 3      | namesilo        |
+| due.hair       | available | $1.99     | —             | high           | low    | 3      | name.com        |
 | protein.hair   | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc. |
 | men.hair       | premium   | $812.50   | —             | high           | low    | 3      | name.com        |
-| fat.hair       | available | $1.99     | —             | medium         | low    | 3      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,406 live domains                        |
+| 1,000-row public sample | 13,363 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 14 high-demand names under $2,500          |
+| Basic exported fields   | 16 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HAIR One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HAIR One-Word Domains*. Version 2026-08-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
