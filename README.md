@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .hair one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 23,116 domains · **Median ask:** $110.69 · **High-demand under $2,500:** 21
 
-**Last updated:** 2026-09-12
+**Last updated:** 2026-09-13
 **Canonical page:** `https://unique.domains/domains/tld/hair`
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | ada.hair     | available | $1.65     | $15.75        | medium         | medium | 3      | namesilo        |
-| mix.hair     | resell    | —         | —             | medium         | low    | 3      | Namecheap       |
+| tonic.hair   | resell    | $1.99     | $20.99        | medium         | low    | 5      | NameCheap, Inc. |
 | ape.hair     | premium   | $2,500    | $20.99        | medium         | low    | 3      | name.com        |
 | ago.hair     | available | $1.99     | $20.99        | medium         | low    | 3      | name.com        |
-| blond.hair   | resell    | —         | —             | medium         | low    | 5      | Key-Systems LLC |
+| mix.hair     | resell    | —         | —             | medium         | low    | 3      | Namecheap       |
 | ask.hair     | premium   | $2,500    | —             | high           | medium | 3      | name.com        |
 | azo.hair     | available | $1.80     | $19.98        | low            | low    | 3      | namecheap       |
-| prompt.hair  | resell    | —         | —             | high           | medium | 6      | Dynadot LLC     |
+| blond.hair   | resell    | —         | —             | medium         | low    | 5      | Key-Systems LLC |
 | Ava.hair     | premium   | $812.50   | —             | high           | medium | 3      | name.com        |
 | bud.hair     | available | $1.65     | $15.75        | high           | low    | 3      | namesilo        |
-| wisdom.hair  | resell    | —         | —             | high           | low    | 6      | Dynadot LLC     |
+| prompt.hair  | resell    | —         | —             | high           | medium | 6      | Dynadot LLC     |
 | bag.hair     | premium   | $2,500    | —             | high           | low    | 3      | name.com        |
 | cot.hair     | available | $1.65     | $15.75        | high           | low    | 3      | namesilo        |
-| protect.hair | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc. |
+| wisdom.hair  | resell    | —         | —             | high           | low    | 6      | Dynadot LLC     |
 | lp.hair      | premium   | $832      | $832          | medium         | low    | 3      | namesilo        |
 | due.hair     | available | $1.99     | —             | high           | low    | 3      | name.com        |
-| protein.hair | resell    | —         | —             | medium         | low    | 7      | Spaceship, Inc. |
+| protect.hair | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc. |
 | men.hair     | premium   | $812.50   | —             | high           | low    | 3      | name.com        |
 | err.hair     | available | $1.65     | $15.75        | high           | low    | 3      | namesilo        |
-| pan.hair     | premium   | $812.50   | —             | high           | low    | 3      | name.com        |
+| protein.hair | resell    | —         | —             | medium         | low    | 7      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HAIR One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HAIR One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
