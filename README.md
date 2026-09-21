@@ -1,10 +1,10 @@
-# Available .HAIR One-Word Domains (28,314)
+# Available .HAIR One-Word Domains (29,173)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C314%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C173%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .hair one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **28,314 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **29,173 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 28,314 domains · **Median ask:** $95.58 · **High-demand under $2,500:** 22
+**Public extract:** 1,000 rows · **Live catalog:** 29,173 domains · **Median ask:** $91.28 · **High-demand under $2,500:** 21
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/hair`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| beauty.hair  | premium   | $10,400   | $10,400       | high           | low    | 6      | namecheap       |
 | ada.hair     | available | $1.65     | $15.75        | medium         | medium | 3      | namesilo        |
 | tonic.hair   | resell    | $1.99     | $20.99        | medium         | low    | 5      | NameCheap, Inc. |
 | ape.hair     | premium   | $2,500    | $20.99        | medium         | low    | 3      | name.com        |
@@ -84,6 +83,7 @@ print(df.head())
 | protein.hair | resell    | —         | —             | medium         | low    | 7      | Spaceship, Inc. |
 | men.hair     | premium   | $812.50   | —             | high           | low    | 3      | name.com        |
 | due.hair     | available | $1.99     | —             | high           | low    | 3      | name.com        |
+| pan.hair     | premium   | $812.50   | —             | high           | low    | 3      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 28,314 live domains                        |
+| 1,000-row public sample | 29,173 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 22 high-demand names under $2,500          |
+| Basic exported fields   | 21 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HAIR One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HAIR One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
