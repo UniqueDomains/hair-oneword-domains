@@ -6,7 +6,7 @@ be9e8147-a105-4d3f-9bab-87e4ec33276b,greenparty.hair,available,1.99,,medium,low,
 bacab3dc-fc3f-4c3b-98df-c92f1f7f8508,veg.hair,available,1.65,15.75,high,low,3,namesilo,,,
 31f9b2e7-8771-4466-ab75-19c33874da6d,aneuploid.hair,available,1.65,15.75,low,low,9,namesilo,,,
 fd136d65-d46b-4a3f-94d4-b65c43a01067,dirt.hair,available,1.99,20.99,medium,low,4,name.com,,,
-985d8a3b-0ef9-4755-900e-11f15cfde2c1,circular.hair,available,1.65,15.75,high,low,8,namesilo,,,
+985d8a3b-0ef9-4755-900e-11f15cfde2c1,circular.hair,available,1.8,21.98,medium,low,8,namecheap,,,23/09/2026 09:44
 94f5de40-e5c6-490f-bfdd-322535ab816b,verb.hair,premium,2500,,high,low,4,name.com,,,
 f1d38c57-38a3-4314-887e-065fbf2517b4,tylenol.hair,available,1.65,15.75,high,medium,7,namesilo,,,
 9e774a04-9d46-4e09-9a81-3fa22f651777,ofall.hair,available,1.65,15.75,low,low,6,namesilo,,,
@@ -50,7 +50,7 @@ b797e024-39f7-4f07-8569-d8cdb1777b71,consider.hair,available,1.99,20.99,high,low
 271129d3-fb01-452a-8a84-ebfceedf9be8,way.hair,available,1.99,,high,low,3,name.com,,,
 6ddbc97d-fef0-4b7e-9174-a4bcf1aebf55,info.hair,premium,2500,,high,medium,4,name.com,,,
 8792bd02-f3bc-4aa0-b7a4-aebf42505373,redmeat.hair,available,1.65,15.75,low,low,8,namesilo,,,
-16a0b79d-0a64-44c2-9fd1-02450e90705d,digital.hair,premium,2660,2660,medium,low,7,namesilo,,,19/09/2026 05:15
+16a0b79d-0a64-44c2-9fd1-02450e90705d,digital.hair,premium,2600,2600,medium,low,7,namecheap,,,23/09/2026 05:43
 58ab7849-b686-4d17-ae89-e61223d94efd,younggirl.hair,available,1.99,,low,low,10,name.com,,,
 1d981e72-a7a9-42d2-868b-0490e2fc4514,fiber.hair,available,1.65,15.75,high,low,5,namesilo,,,
 03addf96-2986-4fb7-b525-625d5b24e4e5,dislike.hair,available,1.65,15.75,high,low,7,namesilo,,,
@@ -72,14 +72,14 @@ c908cb65-3d74-4c51-92fc-8275959d2855,difficult.hair,available,1.99,20.99,high,lo
 a38a7417-1191-4515-bd92-11179a42f31f,scurvy.hair,available,1.65,15.75,low,low,6,namesilo,,,
 f70a516e-3106-446a-9c89-5c12d86d31bb,flightpath.hair,available,1.65,15.75,medium,low,11,namesilo,,,
 df7d16d9-7a1c-472a-ac95-5242e355d5a8,peak.hair,available,1.65,15.75,medium,medium,4,namesilo,,,
-e4cd646b-9453-4519-ba29-9c99d1bb0497,halt.hair,available,1.99,20.99,medium,low,4,name.com,,,
+e4cd646b-9453-4519-ba29-9c99d1bb0497,halt.hair,available,1.8,21.98,low,low,4,namecheap,,,24/09/2026 01:49
 87999f99-2718-4da8-a343-15bea02256c0,westham.hair,available,1.65,15.75,low,low,8,namesilo,,,
-e191727b-e966-452e-ae7a-1e2a3f578f46,courteous.hair,available,1.99,20.99,high,low,9,name.com,,,
+e191727b-e966-452e-ae7a-1e2a3f578f46,courteous.hair,available,1.99,17.29,medium,low,9,namesilo,,,24/09/2026 00:40
 e91107f5-1927-4ea1-9fe4-39b3882f9de4,germanchamomile.hair,available,1.65,15.75,high,low,16,namesilo,,,
 c82aca36-e8ac-49a8-98b1-7f27049e34ad,anticlinal.hair,available,1.8,19.98,low,low,10,namecheap,,,
 f9081549-e562-4bb1-a96c-8c4a6ec9ab73,experimental.hair,available,1.65,15.75,high,low,12,namesilo,,,
 585cded8-60f5-42b5-b935-92522d04a4ff,prevention.hair,available,1.8,21.98,medium,low,10,namecheap,,,08/09/2026 14:09
-272268c8-7bcd-4ad9-b70f-bd80149d8af9,shot.hair,available,1.65,15.75,high,low,4,namesilo,,,
+272268c8-7bcd-4ad9-b70f-bd80149d8af9,shot.hair,available,1.99,17.29,low,low,4,namesilo,,,23/09/2026 13:53
 47f44614-5b9f-459c-b149-33430d9e80f9,farmstand.hair,available,1.65,15.75,high,low,10,namesilo,,,
 d426b796-fdd8-4249-8c2a-2f51b67ecc9d,alexander.hair,premium,812.5,,medium,low,9,name.com,,,
 dc08915f-32d9-4c9d-ad72-2f9c7073590a,twin.hair,available,1.65,15.75,high,low,4,namesilo,,,
@@ -112,7 +112,6 @@ a8120f4d-5c9e-452d-8ce9-4a5ce038c35c,whiskery.hair,available,1.8,19.98,medium,lo
 f63b4701-4ec6-4fee-8838-61932abaadbd,bloodsample.hair,available,1.65,15.75,high,low,12,namesilo,,,
 25c5dc68-04b8-4be3-9aa3-597798f2b529,red.hair,premium,2660,2660,medium,low,3,namesilo,,,22/09/2026 22:22
 71adcc57-5d58-4d24-932d-27609be32081,newage.hair,premium,2500,,low,low,7,name.com,,,
-1cbf4323-2d04-4f03-89c3-31d2431a5e11,heart.hair,premium,2500,,high,low,5,name.com,,,
 87a132fb-97d4-4345-90ac-34acc98c936f,longer.hair,available,1.99,,high,low,6,name.com,,,
 fabf1d3c-030c-4f33-8538-50fc277903e4,angled.hair,available,1.65,15.75,low,low,6,namesilo,,,
 c9e80583-c9d3-4c1f-96a0-7beb0faf3272,monitory.hair,available,1.65,15.75,low,low,8,namesilo,,,
@@ -150,13 +149,13 @@ b54d281c-5495-423b-8c1e-a43e0b70d467,truffle.hair,available,1.65,15.75,high,low,
 033705b4-0dc8-42fe-91b7-352ce37d5b46,songlike.hair,available,1.8,19.98,low,low,8,namecheap,,,06/08/2026 19:24
 f6464bfd-797c-42ee-82f3-ffc29cc96d7c,templecity.hair,available,1.65,15.75,low,low,11,namesilo,,,
 be8ce51c-2486-4025-a2eb-2220548a07fc,shopworn.hair,available,1.8,19.98,low,low,8,namecheap,,,08/08/2026 11:06
-46a06871-2d64-4f4a-8c3a-93e28d164739,committed.hair,available,1.65,15.75,high,low,9,namesilo,,,
+46a06871-2d64-4f4a-8c3a-93e28d164739,committed.hair,available,1.99,17.29,medium,low,9,namesilo,,,23/09/2026 15:46
 f638120d-dfe8-4089-a683-12182676c948,adscript.hair,available,1.65,15.75,low,low,8,namesilo,,,
 64181956-3ab3-4b72-a705-7a99b66d1009,shove.hair,available,1.65,15.75,high,low,5,namesilo,,,
 743dab98-1206-433a-b283-7b2fcfb76c68,creating.hair,available,1.65,15.75,high,low,8,namesilo,,,
 1e1cb6ae-cdb8-4ae8-99b6-de5a5d91219f,appoint.hair,available,1.65,15.75,high,low,7,namesilo,,,
 931b830c-be02-4e3e-97fb-aa1181e84ebf,fiftieth.hair,available,1.65,15.75,low,low,8,namesilo,,,
-32d54869-0caa-4ebf-ad66-7dc052e15c93,bronze.hair,available,1.65,15.75,medium,low,6,namesilo,,,
+32d54869-0caa-4ebf-ad66-7dc052e15c93,bronze.hair,available,1.99,17.29,low,low,6,namesilo,,,23/09/2026 09:58
 b2871b77-73dc-4035-ad72-354352b7684c,cost.hair,available,1.65,15.75,medium,low,4,namesilo,,,
 65852a3d-1ca5-4a81-9ddf-51e1ea9ef30f,childsupport.hair,available,1.65,15.75,medium,low,13,namesilo,,,
 765a57ad-f383-45bf-982a-939cf8fc0ab6,quieter.hair,available,1.65,15.75,high,low,7,namesilo,,,
@@ -178,7 +177,7 @@ b1d9d9c4-9f88-47cb-8508-75b0a3a136fd,see.hair,premium,2500,,high,low,3,name.com,
 f9a5ff9d-6105-4c49-a433-68292c828019,restrict.hair,available,1.99,17.29,low,low,8,namesilo,,,19/09/2026 17:10
 040daf6f-8c9c-4037-bd50-44a1545530d9,solongas.hair,available,1.65,15.75,low,low,10,namesilo,,,
 bd18f39c-9a4b-4c19-b834-db3bc20562aa,rootbeer.hair,available,1.65,15.75,medium,low,9,namesilo,,,
-cff4947c-4173-4883-a54a-d8ddf34acbfd,contained.hair,available,1.99,20.99,medium,low,9,name.com,,,
+cff4947c-4173-4883-a54a-d8ddf34acbfd,contained.hair,available,1.99,17.29,low,low,9,namesilo,,,23/09/2026 21:42
 be0d339d-fda3-4535-83c3-b1444b592468,race.hair,premium,812.5,,high,low,4,name.com,,,
 bf1303ac-260c-44d8-b7c0-379f49e7892f,authorityfigure.hair,available,1.99,,medium,low,16,name.com,,,
 567385fd-4dbb-4a5d-b9eb-ac1686eca1c9,dracula.hair,available,1.65,15.75,high,low,7,namesilo,,,
@@ -199,17 +198,17 @@ a412fcb1-ecc7-4276-a453-80f8ffbda02d,getwell.hair,available,1.65,15.75,high,low,
 3aa26454-d90e-4ac2-bfe8-0a17af85e291,newworld.hair,available,1.99,,medium,low,9,name.com,,,
 77730f98-667f-4967-8981-b1e9af7207e3,awned.hair,available,1.8,19.98,low,low,5,namecheap,,,08/08/2026 01:16
 e4008d6a-f36c-457c-973d-e2c27e5b52a6,industrialize.hair,available,1.65,15.75,medium,low,13,namesilo,,,
-33e39d29-82d5-41a0-b1cf-b2b09be15c75,cooked.hair,available,1.99,20.99,high,low,6,name.com,,,
+33e39d29-82d5-41a0-b1cf-b2b09be15c75,cooked.hair,available,1.8,21.98,low,low,6,namecheap,,,23/09/2026 22:56
 8fd7334f-693e-411a-8c97-e0be2ca572b8,usdollar.hair,available,1.99,,high,low,9,name.com,,,
 d62ce452-9e8b-436b-add2-c068d126ef0f,speakto.hair,available,1.65,15.75,medium,low,8,namesilo,,,
 bdf5ae15-8d6b-48a2-8713-73dfb1807f15,archetypal.hair,available,1.8,19.98,low,low,10,namecheap,,,06/08/2026 15:32
 204aba43-88bb-433a-8b15-7915dc1e71b6,poolside.hair,available,1.65,15.75,high,low,8,namesilo,,,
-63a602d5-1bab-47b4-8b10-30c1a3c44798,axle.hair,available,1.65,15.75,high,high,4,namesilo,,,
+63a602d5-1bab-47b4-8b10-30c1a3c44798,axle.hair,available,1.8,21.98,medium,low,4,namecheap,,,24/09/2026 02:43
 fd246f3e-cfb3-4925-8116-ed1078965d9a,wonderfully.hair,available,1.65,15.75,medium,low,11,namesilo,,,
 8f43edd1-b114-4464-8ba2-7cb0da3413b7,protect.hair,resell,,,high,low,7,"Spaceship, Inc.",15/03/2026 22:54,15/03/2027 23:59,
 a60f7994-f09c-4b26-b052-a6e410cb924a,endearing.hair,available,1.8,21.98,medium,low,9,namecheap,,,21/09/2026 19:24
 648751f6-84dd-4f2b-934c-fbe1c06b5e84,attentive.hair,available,1.99,20.99,low,low,9,name.com,,,22/09/2026 11:22
-d4cc7b7d-fcfa-4f82-8ad3-010b1011a989,quiet.hair,available,1.65,15.75,high,low,5,namesilo,,,
+d4cc7b7d-fcfa-4f82-8ad3-010b1011a989,quiet.hair,available,1.99,17.29,medium,low,5,namesilo,,,23/09/2026 12:30
 79002071-55e3-4cff-8959-25d94c728c81,sexual.hair,available,1.65,15.75,high,low,6,namesilo,,,
 b2f3cc42-c9d5-4412-bdd9-4f822daa291b,plentiful.hair,available,1.65,15.75,high,low,9,namesilo,,,
 ab9015bc-5543-4a9a-94e9-0b8b5f251050,grinning.hair,available,1.65,15.75,high,low,8,namesilo,,,
@@ -268,7 +267,7 @@ f405a735-cf82-47e4-baed-629ebc36017d,upatree.hair,available,1.65,15.75,low,low,9
 dbe7238f-d5df-4eb8-ab5d-e977266a8105,avifaunal.hair,available,1.8,19.98,low,low,9,namecheap,,,07/08/2026 23:30
 bf617b1d-00f5-48d1-a59f-943bcf7d9d54,trulyyours.hair,available,1.65,15.75,low,low,11,namesilo,,,
 80689298-0730-4557-96d1-d5035e051495,redcross.hair,available,,,low,low,9,,,,
-4f9c8487-067a-4ebf-872d-0aa53e5262ae,crude.hair,available,1.99,20.99,high,low,5,name.com,,,
+4f9c8487-067a-4ebf-872d-0aa53e5262ae,crude.hair,available,1.99,17.29,medium,low,5,namesilo,,,24/09/2026 02:12
 b5721cbf-1b95-4509-9345-a9ae0f4243ed,abomasal.hair,available,1.65,15.75,low,low,8,namesilo,,,
 12b59ce3-3ecf-4553-b089-b827a2a8d566,dilemma.hair,available,1.65,15.75,medium,low,7,namesilo,,,
 16284e1f-96e2-4571-a79c-95dc2db435e5,proved.hair,available,1.65,15.75,high,low,6,namesilo,,,
@@ -321,7 +320,7 @@ f9b5737d-339d-47c7-a8ce-9205de1aae3b,mushy.hair,available,1.8,19.98,low,low,5,na
 c795e32c-5f86-4ae4-bd4e-8f6db748b944,iamafraidofthis.hair,available,1.65,15.75,medium,low,19,namesilo,,,
 b46a59c6-3e67-49cc-826a-9070aab6485c,vegan.hair,premium,812.5,,high,medium,5,name.com,,,
 0146fd6c-47ea-4112-bf4b-366627e0f3e2,proportion.hair,available,1.65,15.75,high,low,10,namesilo,,,
-8f826297-e5ce-43d3-998f-fdbc0e3be67a,limited.hair,available,1.65,15.75,high,low,7,namesilo,,,
+8f826297-e5ce-43d3-998f-fdbc0e3be67a,limited.hair,available,1.99,17.29,low,low,7,namesilo,,,23/09/2026 14:41
 a0c95d70-2666-46b1-8a01-16165f5abb1b,push.hair,premium,2500,,high,low,4,name.com,,,
 6285b9ab-5cdc-4da2-9154-c0f2daf7eca7,abandoned.hair,available,1.99,17.29,low,low,9,namesilo,,,21/09/2026 13:36
 32e54831-ac5a-484c-8ec4-109ae64beff3,experienced.hair,available,1.65,15.75,high,low,11,namesilo,,,
@@ -380,7 +379,6 @@ e805319c-f262-4cb8-94b9-bf2b04f6424e,sit.hair,available,1.65,15.75,high,low,3,na
 f6da2cef-e0aa-417c-82fd-966ee7d1337d,too.hair,available,,,high,low,3,,,,
 977177ed-5692-4bf1-bc91-ba4c6f6c8181,carrier.hair,premium,2500,,medium,low,7,name.com,,,
 b971da08-b3d0-454f-8a83-ab11dfbe5b93,proclaiming.hair,available,1.65,15.75,high,low,11,namesilo,,,
-5570cf24-2838-4f69-a72c-80a82f66a679,colour.hair,premium,2500,,high,low,6,name.com,,,
 29766211-3dd3-4e1d-be33-925feaaf1e28,authorial.hair,available,1.8,19.98,low,low,9,namecheap,,,07/08/2026 16:19
 594da722-6192-420d-b0b5-e7e4dc5f8c4d,president.hair,premium,2500,,high,low,9,name.com,,,
 ff66bbae-7391-464b-835b-83d1a5e8a9fc,areal.hair,available,1.8,19.98,low,low,5,namecheap,,,06/08/2026 17:21
@@ -389,7 +387,7 @@ e33a9983-575f-408d-a0b1-aa192940e111,were.hair,available,1.65,15.75,high,low,4,n
 0e799e89-31a1-4cc9-b1a7-5f70b64b6bdd,bolster.hair,available,1.65,15.75,medium,low,7,namesilo,,,
 e3cb82d4-aff3-4347-91c1-9e97541a8536,minor.hair,available,1.65,15.75,high,low,5,namesilo,,,
 57393066-86c1-4a97-be5c-ccc709af5c10,tracking.hair,available,1.65,15.75,medium,low,8,namesilo,,,
-58453d84-d75c-4f5b-9e02-677f6f79fc42,feature.hair,available,1.65,15.75,high,low,7,namesilo,,,
+58453d84-d75c-4f5b-9e02-677f6f79fc42,feature.hair,available,1.99,17.29,medium,low,7,namesilo,,,23/09/2026 13:48
 278a7edb-c943-4502-a060-e25a007a288e,ifnot.hair,available,1.65,15.75,medium,low,6,namesilo,,,
 001c6925-3b4f-4f58-b0b5-ceda373df1d3,mealvoucher.hair,available,1.99,,high,low,12,name.com,,,
 d5011d1a-e64d-4779-9d16-a52489053a98,hardfacts.hair,available,1.65,15.75,medium,low,10,namesilo,,,
@@ -428,7 +426,7 @@ b36757a6-f57c-4b8c-a7a1-7ce519d06162,traveller.hair,available,1.65,15.75,medium,
 96c24b31-8a4e-474a-b8e7-aeeaf2895f18,movies.hair,premium,2500,,medium,low,6,name.com,,,
 25dc311a-c036-4170-a9b1-80fb4d81a96f,octonary.hair,available,1.8,19.98,low,low,8,namecheap,,,
 80e9ef4a-a6f3-4da6-9548-57fcefc3495a,amphibian.hair,available,1.65,15.75,low,low,9,namesilo,,,
-604c4cac-8cfe-4f01-b9fa-cb89234b6aec,strained.hair,available,1.99,20.99,medium,low,8,name.com,,,
+604c4cac-8cfe-4f01-b9fa-cb89234b6aec,strained.hair,available,1.8,21.98,low,low,8,namecheap,,,23/09/2026 21:17
 a5862af8-27d7-4de6-9f55-3d587fdadb15,lions.hair,premium,2500,,high,low,5,name.com,,,
 73d733d7-ebd2-4fa2-b0db-4c07dd6e148e,illustrated.hair,available,1.65,15.75,medium,low,11,namesilo,,,
 97c6e2b2-3683-4c03-97cd-37fd064936f2,animist.hair,available,1.65,15.75,low,low,7,namesilo,,,
@@ -449,7 +447,7 @@ cddaad16-e4d4-4c83-80b0-7142925ca143,convince.hair,available,1.65,15.75,high,low
 b6b922da-c60d-417a-afe0-13d781a35eea,djia.hair,available,1.65,15.75,medium,low,4,namesilo,,,
 3521e4b6-514b-40ab-bb15-8a9af33b7ec0,stagingarea.hair,available,1.65,15.75,medium,low,12,namesilo,,,
 750ee3ba-6b70-4cc3-899b-193a48545517,ground.hair,available,1.99,17.29,medium,low,6,namesilo,,,22/09/2026 17:38
-9ba05c0c-f054-44cf-aae4-d645b855df14,beauty.hair,premium,10400,10400,high,low,6,namecheap,,,18/09/2026 23:19
+9ba05c0c-f054-44cf-aae4-d645b855df14,beauty.hair,premium,11040,11040,medium,low,6,namesilo,,,23/09/2026 06:13
 1591429a-d0ae-4612-a497-3bd6cd40fd6e,marines.hair,available,1.99,,high,low,7,name.com,,,
 8411ef9c-6755-4e97-80db-94609ebb04b3,confess.hair,available,1.65,15.75,high,low,7,namesilo,,,
 caad7ed5-6b9c-43ce-b62d-ad69a0ac2d80,ticketwindow.hair,available,1.65,15.75,medium,low,13,namesilo,,,
@@ -574,7 +572,7 @@ f6f53450-a062-459f-a9ec-64fddbf3c14c,below.hair,available,1.99,20.99,medium,low,
 961367d5-147c-4991-8545-805d735dc4d2,clinic.hair,premium,2500,,high,low,6,name.com,,,
 7cf8032a-d85d-4a96-9893-9da672362d3f,getupearly.hair,available,1.99,,high,low,12,name.com,,,
 66c7a898-5799-4f1c-8ae7-7ebc0162030f,entirety.hair,available,1.65,15.75,high,low,8,namesilo,,,
-361032da-6e29-4af0-8295-d19b5047ad22,snap.hair,premium,2500,2500,high,medium,4,name.com,,,
+361032da-6e29-4af0-8295-d19b5047ad22,snap.hair,premium,2660,2660,medium,low,4,namesilo,,,24/09/2026 01:20
 9418492f-b738-4571-b474-c397e59dd177,inpublic.hair,available,1.99,17.29,low,low,9,namesilo,,,16/09/2026 13:11
 b1b495cc-f6e6-4008-b792-fdfe0e19bb7c,what.hair,premium,2500,,high,low,4,name.com,,,
 4f3d89fd-dc55-4586-ad2f-3433913427d0,eighteen.hair,available,1.99,17.29,medium,low,8,namesilo,,,21/09/2026 11:58
@@ -583,7 +581,7 @@ b1b495cc-f6e6-4008-b792-fdfe0e19bb7c,what.hair,premium,2500,,high,low,4,name.com
 ae1186ff-c11d-4e10-a9c9-49ae63e2b46c,expose.hair,available,1.65,15.75,high,low,6,namesilo,,,
 ea5c9059-8d3e-4247-ba7d-acc6d9ad4f5b,anatropous.hair,available,1.65,15.75,low,low,10,namesilo,,,
 488dbea0-42d6-43cd-a3cf-4494ce133614,bandaged.hair,available,1.8,19.98,low,low,8,namecheap,,,08/08/2026 11:34
-7608bf02-f001-42ad-8c92-ea223f63dd33,occupy.hair,available,1.65,15.75,medium,low,6,namesilo,,,
+7608bf02-f001-42ad-8c92-ea223f63dd33,occupy.hair,available,1.99,17.29,low,low,6,namesilo,,,23/09/2026 12:12
 10e1b97c-fd5e-4671-bf70-7056a748cfff,uber.hair,premium,2500,,high,high,4,name.com,,,
 a67b229e-67b2-432e-a43c-2b9387b8de28,cattax.hair,available,1.65,15.75,medium,low,7,namesilo,,,
 85aa850b-7bcb-422c-bd23-02fe73b116d1,giveitarest.hair,available,1.65,15.75,medium,low,14,namesilo,,,
@@ -648,7 +646,7 @@ d9495f8c-8018-45f2-8efb-89141453e88d,bucket.hair,available,1.65,15.75,medium,low
 c21e824c-c063-4023-8291-fc0dc1eaeb69,ambrosian.hair,available,1.65,15.75,low,low,9,namesilo,,,
 fd3857c2-f160-4fbb-a738-6ff449945a81,secondguess.hair,available,1.65,15.75,medium,low,12,namesilo,,,
 4d9145a0-0ec2-4d3e-9fa0-d594307f5548,wedding.hair,premium,812.5,,high,low,7,name.com,,,
-bafe2926-93fc-46ae-aef7-e236d51517fb,continuing.hair,available,1.99,20.99,high,low,10,name.com,,,
+bafe2926-93fc-46ae-aef7-e236d51517fb,continuing.hair,available,1.99,20.99,medium,low,10,name.com,,,23/09/2026 22:17
 ca1a8291-193e-4cea-b61b-ab1dee798787,indate.hair,available,1.65,15.75,medium,low,7,namesilo,,,
 c2d8b248-e64b-47ed-9fca-61e1ca401cb9,actionable.hair,available,1.99,17.29,medium,low,10,namesilo,,,21/09/2026 16:28
 0b7a25fb-0749-4b84-a37b-b1cded558b7c,trapped.hair,available,1.8,19.98,low,low,7,namecheap,,,07/08/2026 11:08
@@ -660,7 +658,7 @@ cdd671d2-a659-4f28-b8d5-61f5cd8687c3,asteriated.hair,available,1.8,19.98,low,low
 9fa00868-479b-4d4e-8927-52beb1ff9c66,anxiolytic.hair,available,1.8,19.98,low,low,10,namecheap,,,05/08/2026 21:38
 0e4fc3d3-b616-41c9-ba33-29582d635694,upc.hair,available,1.65,15.75,high,low,3,namesilo,,,
 f3357ca4-d49b-427c-8ddd-9bc15db21f43,perceiving.hair,available,1.99,,high,low,10,name.com,,,
-8ca9a45b-d758-418f-be3f-fe68f47d02b1,pack.hair,available,1.99,20.99,high,low,4,name.com,,,
+8ca9a45b-d758-418f-be3f-fe68f47d02b1,pack.hair,available,1.99,17.29,medium,low,4,namesilo,,,23/09/2026 16:28
 ccc51c96-5dd0-45d1-9f9e-f25fa7846e97,ampullar.hair,available,1.65,15.75,low,low,8,namesilo,,,
 fa1bc2ae-2d2a-4589-9ac7-ec5666bd7311,everyone.hair,available,1.99,,medium,low,8,name.com,,,
 2bffd5e7-64ac-40dd-a948-a03d28962e86,advertised.hair,available,1.65,15.75,low,low,10,namesilo,,,
@@ -682,7 +680,7 @@ d8355114-4dc4-4b86-b5bd-225b4c256d8f,sound.hair,premium,812.5,,high,low,5,name.c
 930a8332-d75f-4d57-97ac-08461b2ede86,incompanywith.hair,available,1.65,15.75,medium,low,15,namesilo,,,
 34b46a32-46c1-4ee2-b239-dadf91f04f88,oldagepensioner.hair,available,1.99,,medium,low,17,name.com,,,
 9b00c3ed-0e19-4c2f-8c95-24babcf4794b,battered.hair,available,1.8,21.98,low,low,8,namecheap,,,22/09/2026 18:12
-50a8d4f6-134e-4b3c-be74-e439937c9a16,advertising.hair,available,1.99,17.29,medium,low,11,namesilo,,,19/09/2026 09:14
+50a8d4f6-134e-4b3c-be74-e439937c9a16,advertising.hair,available,1.99,17.29,medium,low,11,namesilo,,,23/09/2026 07:26
 2668b645-0559-43bd-a1b4-4c5ea1090984,potterabout.hair,available,1.99,,low,low,12,name.com,,,
 032af738-6122-4be1-bc45-26f5784b9fb4,theme.hair,available,1.65,15.75,high,low,5,namesilo,,,
 092eb8c6-2a24-41c2-8454-1bb64f2c2af4,lxxxii.hair,available,1.65,15.75,low,low,6,namesilo,,,
@@ -720,7 +718,7 @@ d65b5f4d-b09f-489d-8d9f-10870abe9c60,invigorate.hair,available,1.99,17.29,medium
 f7b4ac78-10bb-4f3c-8646-371379af7634,rodshaped.hair,available,1.8,19.98,low,low,10,namecheap,,,08/08/2026 05:07
 b914ef37-ef16-4dd3-94c7-34d834849496,essayquestion.hair,available,1.99,,medium,low,14,name.com,,,
 6b2b1654-eed9-451f-a21c-e59f2e69618c,aseptic.hair,available,1.99,17.29,low,low,7,namesilo,,,22/09/2026 09:33
-ab57ca25-ba57-426a-ae37-7b03ae2c25b2,title.hair,available,1.65,15.75,high,low,5,namesilo,,,
+ab57ca25-ba57-426a-ae37-7b03ae2c25b2,title.hair,available,1.99,17.29,medium,low,5,namesilo,,,24/09/2026 03:07
 53504f68-e5bf-45a6-8188-782e2b64c15d,footballmatch.hair,available,1.65,15.75,high,low,14,namesilo,,,
 5d80829d-31c5-46c2-abf4-49c933250bb3,lowkeyed.hair,available,1.65,15.75,medium,low,9,namesilo,,,
 022a4f83-f33a-449c-9d15-77fd434d98ed,tennis.hair,premium,2500,,high,low,6,name.com,,,
@@ -786,7 +784,7 @@ e85e0ec2-e1ea-462f-bd3c-9ecd2515f6b2,inkind.hair,available,1.8,21.98,low,low,7,n
 a946a104-b655-46f3-b4ee-7c0f77c3aa7e,namedafter.hair,available,1.99,,low,low,11,name.com,,,
 b5506638-59b2-4095-b940-e00cb54b3842,nowhearthis.hair,available,1.65,15.75,low,low,13,namesilo,,,
 da8c744d-cf84-40f5-956a-4c216eb92a97,critique.hair,available,1.99,,high,low,8,name.com,,,
-3cf14c6d-d8de-4af2-b401-18fe3cae484d,nationwide.hair,premium,2500,2500,high,medium,10,name.com,,,
+3cf14c6d-d8de-4af2-b401-18fe3cae484d,nationwide.hair,premium,2660,2660,low,low,10,namesilo,,,24/09/2026 00:32
 36f551bc-7a77-4026-aa92-c712f72ce469,mouthtomouth.hair,available,1.99,,low,low,14,name.com,,,
 66674258-5bc6-4668-9c2c-0a759ec2ca5e,mouthy.hair,available,1.99,,low,low,6,name.com,,,
 b6fb64b6-9914-442e-9728-0ee1565a90e2,twenty.hair,available,1.99,17.29,medium,low,6,namesilo,,,21/09/2026 12:24
@@ -813,7 +811,7 @@ edaf071e-d247-405b-a167-f29f15853c12,acappella.hair,available,1.99,17.29,low,low
 3d127f06-6083-448e-b1de-d6e4312e189d,abradant.hair,available,1.65,15.75,low,low,8,namesilo,,,
 1817abb5-a6f4-4da3-8210-38a132e68e49,archaist.hair,available,1.8,19.98,low,low,8,namecheap,,,
 91442693-3577-4dc1-b6e6-b1234b810a7a,release.hair,available,1.65,15.75,high,low,7,namesilo,,,
-e83f1924-afd8-47bc-94e5-b69e47c1cb0e,arts.hair,premium,2600,2600,medium,low,4,namecheap,,,19/09/2026 04:18
+e83f1924-afd8-47bc-94e5-b69e47c1cb0e,arts.hair,premium,2660,2660,medium,low,4,namesilo,,,23/09/2026 06:35
 7afa2c82-e69b-478b-b2ea-56887f55251b,somebody.hair,available,1.65,15.75,high,low,8,namesilo,,,
 c86b6c1b-160a-417b-93f9-da66f4402f52,stockexchange.hair,available,1.65,15.75,high,low,14,namesilo,,,
 c99e266c-45ac-4ee8-baff-121e0114c675,dateofdeath.hair,available,1.65,15.75,medium,low,13,namesilo,,,
@@ -839,7 +837,7 @@ ad997d92-8f32-4fb6-b601-1ed013cbc84d,unbearable.hair,available,1.65,15.75,medium
 969c9b6c-bc62-4dc2-8cf9-2e5b2bc6fcd6,texas.hair,premium,812.5,,medium,medium,5,name.com,,,
 94f635ab-a10a-408c-bea2-c22f6ccc3bba,beatified.hair,available,1.8,19.98,low,low,9,namecheap,,,09/08/2026 05:53
 2d25a08d-aaa3-4601-b3ad-a3b5ad6d68c2,totime.hair,available,1.99,,low,low,7,name.com,,,
-52f00328-90d4-4af1-9b35-72c280f3db9b,comfy.hair,available,1.65,15.75,high,low,5,namesilo,,,
+52f00328-90d4-4af1-9b35-72c280f3db9b,comfy.hair,available,1.8,21.98,medium,low,5,namecheap,,,23/09/2026 15:10
 05a3af7d-2aef-40b3-b7ee-a4e9dc72c4ab,attrited.hair,available,1.8,19.98,low,low,8,namecheap,,,07/08/2026 16:02
 531b0b1c-cc47-4ea4-8b3a-de7af5d23395,corps.hair,available,1.65,15.75,high,low,5,namesilo,,,
 be001ce6-64e1-40d7-840f-c34e2e12ae65,sciences.hair,available,1.65,15.75,low,low,8,namesilo,,,
@@ -848,12 +846,11 @@ bb6b0c7c-a2bb-4815-a4ef-3c43948d8c6a,aladdin.hair,premium,2500,,high,medium,7,na
 24f55a6f-7e3f-4e57-8275-35b3d25334ac,buffer.hair,available,1.65,15.75,high,low,6,namesilo,,,
 92c2dcfd-5585-406d-b5b9-cac3aaa4431e,gothedistance.hair,available,1.65,15.75,high,low,15,namesilo,,,
 a5450eba-a46b-44b4-8c74-2c18e25a6044,arctic.hair,available,1.8,19.98,low,low,6,namecheap,,,06/08/2026 16:07
-890b7c5b-697b-48da-8a5f-c315f4d5fa2d,gracious.hair,available,1.99,20.99,high,low,8,name.com,,,
 abaabc67-9aa8-48ae-ac2b-17df6e303122,wasnt.hair,available,1.65,15.75,medium,low,5,namesilo,,,
 1aab2ebe-d3be-4849-ae1c-00e4a4d1c7e1,streetnumber.hair,available,1.65,15.75,medium,low,13,namesilo,,,
 1a964219-546f-496e-8ba3-5f03c4c4d80b,balzacian.hair,available,1.8,19.98,low,low,9,namecheap,,,08/08/2026 10:50
 59d78f5b-20d3-4928-8d27-5bff44c0b8b2,anaerobic.hair,available,1.65,15.75,low,low,9,namesilo,,,
-8023fd59-1580-4fac-84a9-317261de8546,mandatory.hair,available,1.99,20.99,high,low,9,name.com,,,
+8023fd59-1580-4fac-84a9-317261de8546,mandatory.hair,available,1.8,21.98,medium,low,9,namecheap,,,23/09/2026 18:22
 0e59cd98-ba9e-43de-9da7-1d91781ea0f9,retarded.hair,available,1.99,,medium,low,8,name.com,,,
 d897719b-80b0-4eb4-b92a-abd37ec86297,anorexic.hair,available,1.8,19.98,low,low,8,namecheap,,,
 f33d0e72-bf74-4707-a5ac-a2203e4385d4,wearoff.hair,available,1.65,15.75,low,low,8,namesilo,,,
@@ -909,7 +906,6 @@ e1624671-bfed-400d-a6fe-77ff1ebf6fba,duck.hair,available,1.65,15.75,medium,low,4
 7d7b590a-883e-4eba-a9dd-f53af5c5511d,hat.hair,available,1.99,17.29,medium,low,3,namesilo,,,19/09/2026 16:21
 aac81ae4-1422-4447-bd27-d6cdcbbe5893,piano.hair,available,1.65,15.75,high,low,5,namesilo,,,
 8dd4e083-b12c-4471-98c6-25f937d46866,beefedup.hair,available,1.8,19.98,low,low,9,namecheap,,,09/08/2026 07:44
-b68facf4-60fd-4f32-ad49-9ac5515e10a5,central.hair,premium,2500,,high,low,7,name.com,,,
 941c128b-97ff-4d5e-8698-7b4de486e93a,acrid.hair,available,1.65,15.75,low,low,5,namesilo,,,
 39c282e8-6808-4260-b9cb-ebf365246673,obsessive.hair,available,1.65,15.75,high,low,9,namesilo,,,
 a2a30529-a483-4587-a590-38fe26b8aa91,competing.hair,available,1.65,15.75,medium,low,9,namesilo,,,
@@ -932,7 +928,7 @@ c21966fa-6c7c-4b03-9f39-2d75d9b69c6e,antiracist.hair,available,1.65,15.75,high,l
 95d04919-bc65-4e15-9aa5-4c759022a4ab,outlet.hair,premium,2500,,high,low,6,name.com,,,
 7edd490e-c991-499a-a7c0-492c28ec6f82,subsidiary.hair,available,1.99,20.99,medium,low,10,name.com,,,22/09/2026 14:17
 95bf2434-3160-4180-99f3-c765223d846c,apish.hair,available,1.8,19.98,low,low,5,namecheap,,,06/08/2026 00:12
-0e41c3b8-01f9-4737-98d1-8d18f2be631a,bugged.hair,available,1.65,15.75,medium,low,6,namesilo,,,
+0e41c3b8-01f9-4737-98d1-8d18f2be631a,bugged.hair,available,1.99,17.29,low,low,6,namesilo,,,23/09/2026 10:21
 b68ec7a6-2e15-49b7-9cf7-9e67fb26b39b,nosecount.hair,available,1.99,,low,low,10,name.com,,,
 0f2d8ddd-7136-48d7-9e2c-8fdb2c79395e,await.hair,available,1.65,15.75,high,low,5,namesilo,,,
 039e6555-411a-4b84-9015-ebb8933ce179,tercet.hair,available,1.65,15.75,low,low,6,namesilo,,,
@@ -957,7 +953,7 @@ b589bbc3-d34a-4091-8b00-bffce01b72d4,ackack.hair,available,1.8,19.98,low,low,7,n
 152e91bc-184b-4a46-8e68-1cd305a24c9e,keepon.hair,available,1.65,15.75,high,low,7,namesilo,,,
 5608971f-fc89-40c5-817b-623805ef4ffe,knowwhat.hair,available,1.65,15.75,medium,low,9,namesilo,,,
 db9525ae-4883-497b-a0a4-9b9f95c6b9ee,bestloved.hair,available,1.8,21.98,medium,low,10,namecheap,,,22/09/2026 20:06
-aee46676-46ec-4349-9c10-8017aa709d7f,school.hair,premium,11040,11040,medium,low,6,namesilo,,,20/09/2026 03:02
+aee46676-46ec-4349-9c10-8017aa709d7f,school.hair,premium,11040,11040,medium,low,6,namesilo,,,23/09/2026 11:06
 94602483-1406-47d4-9f1e-b27f99ed4001,maid.hair,available,1.65,15.75,high,low,4,namesilo,,,
 33188c2d-3b71-43bb-bc38-b4ebc2a434c6,excusatory.hair,available,1.8,19.98,low,low,10,namecheap,,,06/08/2026 02:16
 22fd3f3a-8e2b-4955-be21-fdc382a05675,curry.hair,premium,812.5,,high,low,5,name.com,,,
@@ -999,3 +995,7 @@ cdff0a49-ded2-4fba-9dab-b8564d6489c0,appositive.hair,available,1.8,19.98,low,low
 6fcbf6c5-2af9-4a0c-b07a-91f5d76b1d6f,dishup.hair,available,1.65,15.75,high,low,7,namesilo,,,
 4fc0bcf0-af73-475f-999a-3320b3e3b123,sheraton.hair,premium,2500,,medium,high,8,name.com,,,
 1faf2918-1ba7-4501-9aa8-2bb43da9bdd8,cometoahead.hair,available,1.99,,medium,low,14,name.com,,,
+dbdd0b41-6c10-45c9-8648-38dc26d2be71,afflicted.hair,available,1.65,15.75,low,low,9,namesilo,,,
+a8cff860-8e1c-42cd-8815-ed542d6e8b80,beatenup.hair,available,1.8,21.98,low,low,9,namecheap,,,22/09/2026 18:22
+c48c3383-9993-48a8-a85b-99343620c9d4,luxury.hair,premium,2500,,high,low,6,name.com,,,
+482b8414-f7bf-40d6-a25e-17933d21d28d,accentual.hair,available,1.65,15.75,low,low,9,namesilo,,,
