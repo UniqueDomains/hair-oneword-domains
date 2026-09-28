@@ -1,10 +1,10 @@
-# Available .HAIR One-Word Domains (23,608)
+# Available .HAIR One-Word Domains (24,114)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C608%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C114%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .hair one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,608 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,114 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,608 domains · **Median ask:** $134.19 · **High-demand under $2,500:** 34
+**Public extract:** 1,000 rows · **Live catalog:** 24,114 domains · **Median ask:** $134.52 · **High-demand under $2,500:** 42
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/hair`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| asl.hair     | available | $1.80     | $21.98        | high           | low    | 3      | namecheap            |
-| its.hair     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc          |
-| amy.hair     | premium   | $845      | $845          | high           | low    | 3      | namecheap            |
-| auk.hair     | available | $1.99     | $17.29        | medium         | low    | 3      | namesilo             |
-| again.hair   | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.      |
-| ape.hair     | premium   | $2,500    | $20.99        | high           | low    | 3      | name.com             |
-| bum.hair     | available | $1.80     | $19.98        | medium         | low    | 3      | namecheap            |
-| right.hair   | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC         |
-| ink.hair     | premium   | $812.50   | —             | high           | medium | 3      | name.com             |
-| era.hair     | available | $1.65     | $15.75        | high           | medium | 3      | namesilo             |
-| carbon.hair  | resell    | —         | —             | high           | medium | 6      | Dynadot Inc          |
-| lp.hair      | premium   | $832      | $832          | high           | low    | 3      | namesilo             |
-| gdp.hair     | available | $1.99     | $17.29        | high           | low    | 3      | namesilo             |
-| engage.hair  | resell    | —         | —             | high           | low    | 6      | Dynadot Inc          |
-| nan.hair     | premium   | $812.50   | —             | high           | low    | 3      | name.com             |
-| ill.hair     | available | $1.99     | $17.29        | high           | low    | 3      | namesilo             |
-| gather.hair  | resell    | —         | —             | high           | medium | 6      | Dynadot Inc          |
-| nbc.hair     | premium   | $2,660    | $2,660        | high           | high   | 3      | namesilo             |
-| lap.hair     | available | $1.99     | $25.99        | high           | low    | 3      | godaddy              |
-| shining.hair | resell    | —         | —             | high           | low    | 7      | Atom.com Domains LLC |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
+| asl.hair      | available | $1.80     | $21.98        | high           | low    | 3      | namecheap            |
+| its.hair      | resell    | —         | —             | high           | medium | 3      | Dynadot Inc          |
+| amy.hair      | premium   | $845      | $845          | high           | low    | 3      | namecheap            |
+| auk.hair      | available | $1.99     | $17.29        | medium         | low    | 3      | namesilo             |
+| again.hair    | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.      |
+| ink.hair      | premium   | $812.50   | —             | high           | medium | 3      | name.com             |
+| bum.hair      | available | $1.80     | $19.98        | medium         | low    | 3      | namecheap            |
+| right.hair    | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC         |
+| lp.hair       | premium   | $832      | $832          | high           | low    | 3      | namesilo             |
+| era.hair      | available | $1.65     | $15.75        | high           | medium | 3      | namesilo             |
+| engage.hair   | resell    | —         | —             | high           | low    | 6      | Dynadot Inc          |
+| nan.hair      | premium   | $812.50   | —             | high           | low    | 3      | name.com             |
+| gdp.hair      | available | $1.99     | $17.29        | high           | low    | 3      | namesilo             |
+| gather.hair   | resell    | —         | —             | high           | medium | 6      | Dynadot Inc          |
+| nbc.hair      | premium   | $2,660    | $2,660        | high           | high   | 3      | namesilo             |
+| ill.hair      | available | $1.99     | $17.29        | high           | low    | 3      | namesilo             |
+| shining.hair  | resell    | —         | —             | high           | low    | 7      | Atom.com Domains LLC |
+| zen.hair      | premium   | $2,500    | —             | high           | medium | 3      | name.com             |
+| lap.hair      | available | $1.99     | $25.99        | high           | low    | 3      | godaddy              |
+| sapphire.hair | resell    | —         | —             | high           | medium | 8      | Spaceship, Inc.      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,608 live domains                        |
+| 1,000-row public sample | 24,114 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 34 high-demand names under $2,500          |
+| Basic exported fields   | 42 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
